@@ -6,20 +6,16 @@ import Login from "./component/Login";
 
 function App() {
   return (
-    // <BrowserRouter>
-    //   <Routes>
-    //     {/* <Route path="/" element={<Login />} /> */}
-    //     <Route path="/" element={<Header />}>
-    //       <Route path="home" element={<Home />} />
-    //       <Route path="about" element={<>about</>} />
-    //     </Route>
-    //     <Route path="*" element={<ErrorPage />} />
-    //   </Routes>
-    // </BrowserRouter>
-    <>
-      <Header />
-      <Login />
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Login />} />
+        <Route path="/" element={<Header />}>
+          <Route path="home" element={<Home />} />
+          <Route path="about" element={<>about</>} />
+        </Route>
+        <Route path="*" element={<ErrorPage />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
