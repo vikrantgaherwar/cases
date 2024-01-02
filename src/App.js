@@ -9,7 +9,10 @@ function App() {
     <BrowserRouter>
       <Routes>
         {/* <Route path="/" element={<Login />} /> */}
-        <Route path="/" element={<Header />}>
+        <Route
+          path="https://vikrantgaherwar.github.io/gerenare.test.cases"
+          element={<Header />}
+        >
           <Route path="home" element={<Login />} />
           <Route path="about" element={<>about</>} />
         </Route>
