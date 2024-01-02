@@ -8,14 +8,8 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route
-          path="https://vikrantgaherwar.github.io/testcases/"
-          element={<Login />}
-        />
-        <Route
-          path="https://vikrantgaherwar.github.io/testcases/"
-          element={<Header />}
-        >
+        <Route path="/" element={<Login />} />
+        <Route path="/" element={<Header />}>
           <Route path="home" element={<Home />} />
           <Route path="about" element={<>about</>} />
         </Route>
