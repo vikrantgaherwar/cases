@@ -1,0 +1,22 @@
+[
+  {
+    "Test case tittle": " Verify the presence of Back arrow on Register page",
+    "Test steps": "\n1:Nevigate to the company URL in a web browser.\n2:Ensure that the Register page is displayed.\n3:Observe the presence of the back arrow at the top left corner of the page",
+    "Expected result": "The back arrow should be present and clickable, allowing the user to nevigate back to the previous page."
+  },
+  {
+    "Test case tittle": " Verify the presence of Back arrow on Register page",
+    "Test steps": "\n1:Nevigate to the company URL in a web browser.\n2:Ensure that the Register page is displayed.\n3:Observe the presence of the back arrow at the top left corner of the page",
+    "Expected result": "The back arrow should be present and clickable, allowing the user to nevigate back to the previous page."
+  },
+  {
+    "Test case tittle": " Verify the presence of Back arrow on Register page",
+    "Test steps": "\n1:Nevigate to the company URL in a web browser.\n2:Ensure that the Register page is displayed.\n3:Observe the presence of the back arrow at the top left corner of the page",
+    "Expected result": "The back arrow should be present and clickable, allowing the user to nevigate back to the previous page."
+  },
+  {
+    "Test case tittle": " Verify the presence of Back arrow on Register page",
+    "Test steps": "\n1:Nevigate to the company URL in a web browser.\n2:Ensure that the Register page is displayed.\n3:Observe the presence of the back arrow at the top left corner of the page",
+    "Expected result": "The back arrow should be present and clickable, allowing the user to nevigate back to the previous page."
+  }
+]
